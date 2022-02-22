@@ -1,0 +1,21 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h2{
+    background-color: blue;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+p{
+    padding: 20px;
+}
+
+
